@@ -41,8 +41,8 @@ The memo contains a concise version of the investment agreement between Craig G.
 
 1. Clone this repository:
     ```sh
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/fabohax/sol-memo
+    cd sol-memo
     ```
 
 2. Ensure you have a `keypair.json` file in the same directory as `main.rs`.
